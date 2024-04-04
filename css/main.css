@@ -85,6 +85,7 @@ ul.navbar-n > li {
 }
 ul.navbar-n > li > a {
 	/* position: relative; */
+	color: #202020;
 	transition: .4s; 
 }
 ul.navbar > li > a:hover {
